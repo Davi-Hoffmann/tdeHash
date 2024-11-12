@@ -1,2 +1,3 @@
-# tdeHash
-TDE 3
+# TDE 3
+
+Alunos: Davi Hoffmann, Pedro Freiberger, Leonardo Branco
